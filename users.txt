@@ -1,0 +1,3 @@
+admin,admin,Admin
+t,123,Teacher
+s,123,Student
